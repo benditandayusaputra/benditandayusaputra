@@ -1,6 +1,10 @@
 <h1 align="center">Hai, saya Bendi 👋</h1>
 
 <p align="center">
+  <a href="https://benditandayusaputra.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Go+%C2%B7+TypeScript+%C2%B7+Laravel;IoT+%26+Arduino;Hackathon+Enthusiast" alt="Full-stack Developer, IoT dan Hackathon"/></a>
+</p>
+
+<p align="center">
   <b>Full-stack developer</b> di PT. Traspac Makmur Sejahtera · Banjarnegara, Jawa Tengah<br/>
   <i>Different is Better.</i>
 </p>
@@ -41,4 +45,14 @@
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=benditandayusaputra&hide_border=true&theme=github-compact" alt="Grafik aktivitas"/>
+</p>
+
+### Kontribusi
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benditandayusaputra/benditandayusaputra/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benditandayusaputra/benditandayusaputra/output/github-snake.svg"/>
+    <img alt="Ular memakan grafik kontribusi" src="https://raw.githubusercontent.com/benditandayusaputra/benditandayusaputra/output/github-snake.svg"/>
+  </picture>
 </p>
