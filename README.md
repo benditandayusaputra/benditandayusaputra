@@ -15,7 +15,7 @@
 
 - Membangun aplikasi web dari ujung ke ujung: API, frontend, database, sampai deploy di server sendiri.
 - Paling sering memakai **Go**, **TypeScript** (SvelteKit, Nuxt, Next.js) dan **Laravel**, mulai mendalami **Rust**.
-- Suka mengubah masalah publik dan UMKM jadi produk yang bisa langsung dicoba: transparansi anggaran, konsinyasi, siaga kebakaran, sampai bahasa isyarat.
+- Suka ikut hackathon dan lomba, dan mengubah ide jadi produk yang bisa langsung dicoba.
 
 ### Teknologi
 
@@ -25,21 +25,17 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,nginx,cloudflare,vercel,git&perline=12" alt="Infra"/>
 </p>
 
-### Project pilihan
+### Statistik GitHub
 
-| Project | Ringkas | Stack | Demo |
-|---|---|---|---|
-| [**Rantai**](https://github.com/benditandayusaputra/rantai) | Web transparansi publik DKI Jakarta: kursi sekolah, aliran anggaran, dan siapa yang bertanggung jawab, per kecamatan | Go | [buka](https://rantai-civic.vercel.app) |
-| [**Trustip**](https://github.com/benditandayusaputra/trustip) | Platform titip jual (konsinyasi) untuk UMKM, karya lomba GTNIC 2026 | Go | [buka](https://trustip.vercel.app) |
-| [**Parapet**](https://github.com/benditandayusaputra/parapet) | Agen AI penjaga kas UMKM: menagih piutang, menolak tagihan palsu. Shenzhen International FinTechathon 2026 | Python | – |
-| [**TripWire**](https://github.com/benditandayusaputra/TripWire) | Deteksi red flag dan market intelligence saham IDX. Sectors Hackathon 2026 | Svelte | [buka](https://trip-wire-site.vercel.app) |
-| [**Titik Henti**](https://github.com/benditandayusaputra/titik_henti) | Perencanaan siaga kebakaran dari lebar gang di permukiman padat | TypeScript | [buka](https://titikhenti.vercel.app) |
-| [**TransitWarga**](https://github.com/benditandayusaputra/transitwarga) | WebGIS ekonomi informal di sekitar transportasi massal Jakarta. MAPID WebGIS Competition 2026 | TypeScript | [buka](https://transitwarga-web.vercel.app) |
-| [**Lakon**](https://github.com/benditandayusaputra/lakon-app) | Belajar Bahasa Isyarat Indonesia (BISINDO) lewat skenario transaksi nyata dan verifikasi webcam | TypeScript | – |
-| [**Depotin**](https://github.com/benditandayusaputra/depotin) | Sistem depot air isi ulang dengan prediksi galon habis per pelanggan | Go | – |
-| [**Getar**](https://github.com/benditandayusaputra/getar) | Simulasi interaktif getaran dan resonansi, dari bilah gamelan sampai gedung tahan gempa | TypeScript | [buka](https://getar-theta.vercel.app) |
-| [**Hulu Hilir**](https://github.com/benditandayusaputra/hulu_hilir) | Laboratorium sungai virtual untuk siswa SMP dan SMA | TypeScript | [buka](https://hulu-hilir.vercel.app) |
-| [**LigaLestari**](https://github.com/benditandayusaputra/ligalestari) | Liga lingkungan antar-kelas: pilah sampah, kumpulkan Poin Hijau | Vue | [buka](https://ligalestari.vercel.app) |
-| [**Cloister**](https://github.com/benditandayusaputra/cloister) | Jurnal pribadi local-first, catatan dienkripsi di perangkat sebelum sinkron | TypeScript | [buka](https://cloister-alpha.vercel.app) |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=benditandayusaputra&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="Statistik GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benditandayusaputra&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Bahasa terbanyak"/>
+</p>
 
-<sub>Project lama zaman sekolah tetap ada di tab Repositories sebagai arsip.</sub>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=benditandayusaputra&hide_border=true&theme=transparent" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=benditandayusaputra&hide_border=true&theme=github-compact" alt="Grafik aktivitas"/>
+</p>
