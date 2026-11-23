@@ -20,7 +20,7 @@
 ### Teknologi
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,js,php,python&perline=12" alt="Bahasa"/><br/>
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,js,java,php,python,verilog&perline=12" alt="Bahasa"/><br/>
   <img src="https://skillicons.dev/icons?i=svelte,vue,nuxtjs,react,nextjs,tailwind,laravel&perline=12" alt="Framework"/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,nginx,cloudflare,vercel,git&perline=12" alt="Infra"/>
 </p>
