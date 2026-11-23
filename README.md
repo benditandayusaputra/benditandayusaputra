@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Bendi%20Tandayu%20Saputra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Different%20is%20Better&descAlignY=58&descSize=16" alt="Bendi Tandayu Saputra"/>
+
 <h1 align="center">Hai, saya Bendi 👋</h1>
 
 <p align="center">
@@ -11,6 +13,7 @@
 
 <p align="center">
   <a href="https://benditandayusaputra.io"><img src="https://img.shields.io/badge/Portfolio-benditandayusaputra.io-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=benditandayusaputra&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Jumlah pengunjung profil"/>
 </p>
 
 ---
@@ -20,6 +23,13 @@
 - Membangun aplikasi web dari ujung ke ujung: API, frontend, database, sampai deploy di server sendiri.
 - Paling sering memakai **Go**, **TypeScript** (SvelteKit, Nuxt, Next.js) dan **Laravel**, mulai mendalami **Rust**.
 - Suka ikut hackathon dan lomba, dan mengubah ide jadi produk yang bisa langsung dicoba.
+
+### Fokus sekarang
+
+- 🦀 Mendalami **Rust** untuk backend yang cepat dan aman
+- 🔌 Membangun project **IoT** dengan Arduino
+- 🎮 Eksperimen game dengan **Godot Engine**
+- 🏆 Ikut hackathon dan lomba sebanyak mungkin
 
 ### Teknologi
 
@@ -40,6 +50,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-trophies.vercel.app/?username=benditandayusaputra&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trofi GitHub"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=benditandayusaputra&hide_border=true&theme=transparent" alt="GitHub streak"/>
 </p>
 
@@ -56,3 +70,5 @@
     <img alt="Ular memakan grafik kontribusi" src="https://raw.githubusercontent.com/benditandayusaputra/benditandayusaputra/output/github-snake.svg"/>
   </picture>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" alt=""/>
