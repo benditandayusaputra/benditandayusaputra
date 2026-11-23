@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=go,rust,ts,js,java,kotlin,cs,dart,php,python,verilog&perline=12" alt="Bahasa"/>
   <img src="assets/visualbasic.svg" width="48" height="48" alt="Visual Basic" title="Visual Basic"/><br/>
   <img src="https://skillicons.dev/icons?i=svelte,vue,nuxtjs,react,nextjs,tailwind,laravel,flutter,dotnet,arduino&perline=12" alt="Framework"/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=12" alt="Database"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=12" alt="Database"/>
   <img src="assets/sqlserver.svg" width="48" height="48" alt="SQL Server" title="SQL Server"/><br/>
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,vercel,git,gitlab&perline=12" alt="Infra"/>
 </p>
